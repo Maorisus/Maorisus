@@ -6,10 +6,15 @@
 This text and artwork, was created by an AI. 
 To me, it briefly captures the essence of what data professionals should be doing.
 
+
 Hi! 
+
+
 I'm Maor, a recent Practicum100 alum and rookie data analyst.
 
+
 A year ago, I discovered the fascinating world of computers and data, and I haven't been able to get enough of it since.
+
 
 🔭 I’m currently focusing on uploading my work , doing more projects and keep learning Python and SQL.
 
