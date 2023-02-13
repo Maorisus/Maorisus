@@ -23,7 +23,7 @@ A year ago, I discovered the fascinating world of computers and data, and I have
  
 ⚡ Fun fact: I enjoy playing chess & mobile games.
 
-📫 How to reach me: [Linkedin](www.linkedin.com/in/maor-ohayon) | [Facebook](https://www.facebook.com/maor.ohayon.10) | [Gmail](mailto:ohayonmaor@gmail.com)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/maor-ohayon) | [Facebook](https://www.facebook.com/maor.ohayon.10) | [Gmail](mailto:ohayonmaor@gmail.com)
 
 <!--
 **Maorisus/Maorisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
