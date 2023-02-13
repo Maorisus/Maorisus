@@ -4,7 +4,7 @@
 ### "Data is the most valuable asset in any organization."
   -Jeff Bezos
 
-Hi! 
+# Hi! 
 
 
 I'm Maor, a recent Practicum100 alum and rookie data analyst.
