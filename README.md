@@ -15,13 +15,13 @@ A year ago, I discovered the fascinating world of computers and data, and I have
 
 🔭 I’m currently focusing on uploading my work , doing more projects and keep learning Python and SQL.
 
-🌱 I’m currently learning tablaue 
+🌱 I’m currently learning tablaue.
 
 👯 I’m looking to collaborate on data-related projects with curious, ambitious, and analytical individuals.
 
-💬 Ask me about anything that interests you .. I enjoy talking about technology, computers, AI, science and many more.
+💬 Ask me about anything that interests you .I like talking about technology, computers, AI, science and many more.
  
-⚡ Fun fact: I like to play chess & mobile games.
+⚡ Fun fact: I enjoy playing chess & mobile games.
 
 📫 How to reach me: [Linkedin](www.linkedin.com/in/maor-ohayon) | [Facebook](https://www.facebook.com/maor.ohayon.10) | [Gmail](mailto:ohayonmaor@gmail.com)
 
