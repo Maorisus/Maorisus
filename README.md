@@ -3,6 +3,16 @@
 
 ### "Data is like a puzzle. With each piece, the picture becomes clearer. And I'm the puzzle master, turning numbers into insights and predictions into realities."
 
+This text and artwork, was created by an AI. 
+To me, it briefly captures the essence of what data professionals should be doing.
+
+Hi! 
+I'm Maor, a recent Practicum100 alum and rookie data analyst.
+
+A year ago, I discovered the fascinating world of computers and data, and I haven't been able to get enough of it since.
+
+🔭 I’m currently focusing on uploading my work , doing more projects and keep learning Python and SQL.
+
 <!--
 **Maorisus/Maorisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
